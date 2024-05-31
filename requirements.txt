@@ -1,0 +1,4 @@
+office365-rest-python-client
+pandas
+openpyxl
+joblib
