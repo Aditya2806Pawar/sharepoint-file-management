@@ -1,15 +1,12 @@
 # SharePoint/OneDrive File Management with Python
 
 This repository contains Python scripts for seamlessly uploading and downloading various file types—including Excel workbooks, CSV files, and pickle files—to and from SharePoint/OneDrive.
-Author :- Aditya Pawar
-
 
 1. Clone the Repository
-First, clone this repository to your local machine using Git <br> <br>
-
+First, clone this repository to your local machine using Git <br>
 git clone https://github.com/Aditya2806Pawar/sharepoint-file-management.git <br>
 cd sharepoint-file-management
-
+<br><br>
 2. Install Dependencies<br>
 pip install -r requirements.txt
 <br><br>
