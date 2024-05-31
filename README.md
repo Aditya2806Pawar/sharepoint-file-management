@@ -10,9 +10,7 @@ First, clone this repository to your local machine using Git <br> <br>
 git clone https://github.com/Aditya2806Pawar/sharepoint-file-management.git <br>
 cd sharepoint-file-management
 
-2. Install Dependencies<br><br>
-Install the required Python libraries:<br>
-
+2. Install Dependencies<br>
 pip install -r requirements.txt
 <br><br>
 3. Configure Authentication<br>
